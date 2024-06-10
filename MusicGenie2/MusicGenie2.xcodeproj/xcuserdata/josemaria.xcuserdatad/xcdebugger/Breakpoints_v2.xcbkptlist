@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7BB2F515-6B2A-4E1C-85BF-458BDA56D912"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA685E28-E674-4B08-86F6-594B4A249995"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicGenie2/TrackViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA685E28-E674-4B08-86F6-594B4A249995 - 2d83d0afa136dd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicGenie2.TrackViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "MusicGenie2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josemaria/Documents/UChicago/iOS%20Application%20Development/Final%20Project/mpcs51030-2024-winter-assignment-final-project-josemaria/MusicGenie2/MusicGenie2/TrackViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "2724">
+               </Location>
+               <Location
+                  uuid = "AA685E28-E674-4B08-86F6-594B4A249995 - 2d83d0afa136fa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicGenie2.TrackViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "MusicGenie2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josemaria/Documents/UChicago/iOS%20Application%20Development/Final%20Project/mpcs51030-2024-winter-assignment-final-project-josemaria/MusicGenie2/MusicGenie2/TrackViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "2724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
