@@ -2,13 +2,6 @@
 
 Final project for iOS Application Development class. With "Music Genie" you can transfer music seamlessly from Spotify to Apple Music with just a wish. Select Spotify playlists along with the tracks within the playlists you wish to transfer. You need to have a Spotify Premium account to be able to transfer your music.
 
-## Contact information
-
-Name: Josemaria Macedo Carrillo\
-CNET: josemaria\
-UChicago ID: 12370653\
-Slack username: josemaria
-
 ## Frameworks
 - SpotifyiOS: framework that allows to authenticate Spotify user's account to get an access token to access the user's playlists and songs.
 
